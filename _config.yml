@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: LinPC
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
+author: 林PC
 language: en
 timezone: ''
 
@@ -94,7 +94,11 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: hexo-theme-vexo
-
+# Links
+weibo_username: your_weibo_account
+twitter_username: your_twitter_account
+github_username: https://github.com/
+zhihu_username: your_zhihu_account
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
